@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187894374670",
+    "project_id": "flutter-engage-extended-demo",
+    "storage_bucket": "flutter-engage-extended-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187894374670:android:9f886e78eb74e560ec775f",
+        "android_client_info": {
+          "package_name": "com.jiaxuan.flutter_engage_extended_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187894374670-vp70e24ftv79tj3notck8ri8fa46bd5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9eqwAuBO6OPe1cd_3vY5ahatc9voATJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187894374670-vp70e24ftv79tj3notck8ri8fa46bd5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
